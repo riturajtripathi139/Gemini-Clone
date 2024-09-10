@@ -1,10 +1,11 @@
 {
+  
   "name": "gemini-clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
+   
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
